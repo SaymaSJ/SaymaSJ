@@ -29,7 +29,7 @@ I design and build intelligent robotic systems from CAD and structural analysis 
 | [Voice-Controlled Robot](https://github.com/your-username/repo) | Arduino line-following robot with a real-time Bluetooth voice command interface | Arduino · C++ |
 | [Gripper Design & Simulation](https://github.com/your-username/repo) | Gripper modelled in Inventor, stress-tested in ANSYS, simulated & controlled in ROS2 | Inventor · ANSYS · ROS2 · Python |
 
-> 📁 *Pin your 4–6 strongest repos so they show here on your profile.*
+
 
 ---
 
