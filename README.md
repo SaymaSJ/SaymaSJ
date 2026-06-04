@@ -12,10 +12,15 @@ I design and build intelligent robotic systems from CAD and structural analysis 
 ### 🛠️ Tech Stack
 
 -**Languages:** Python · C · C++ · MATLAB
+
 -**Robotics:** ROS / ROS2 · MoveIt2 · Gazebo · URDF
+
 -**ML & Vision:** PyTorch · TensorFlow · OpenCV · scikit-learn
+
 -**CAD & Simulation:** Autodesk Inventor · ANSYS
+
 -**Embedded:** Raspberry Pi · Arduino · ESP · IoT
+
 -**Tools:** Linux · Git/GitHub · VS Code · Google Colab
 
 ---
