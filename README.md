@@ -31,7 +31,7 @@ I design and build intelligent robotic systems from CAD and structural analysis 
 |---|---|---|
 | [3-DOF Collaborative Robot](https://github.com/your-username/repo) | Rule-based cobot that detects product expiry to reduce supermarket waste (M.Sc. dissertation) | ROS · Python · OpenCV |
 | [Farmbot — Plant Disease Detection](https://github.com/your-username/repo) | IoT-enabled robot for tomato plant disease detection using deep learning | Python · TensorFlow · IoT |
-| [Voice-Controlled Robot](https://github.com/SaymaSJ/blob/258224ed295cc65c6df3b0c97e96f6194abff9c9/voice_controlled_car.ino) | Arduino line-following robot with a real-time Bluetooth voice command interface | Arduino · C++ |
+| [Voice-Controlled Robot](https://github.com/SaymaSJ/Arduino/blob/main/voice_controlled_car.ino) | Arduino line-following robot with a real-time Bluetooth voice command interface | Arduino · C++ |
 | [Gripper Design & Simulation](https://github.com/your-username/repo) | Gripper modelled in Inventor, stress-tested in ANSYS, simulated & controlled in ROS2 | Inventor · ANSYS · ROS2 · Python |
 
 
