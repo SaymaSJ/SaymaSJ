@@ -2,7 +2,7 @@
 
 **Robotics & Automation Engineer** | M.Sc. Mechanical Engineering, Anglia Ruskin University (UK) | British Council Scholar for Women in STEM
 
-I design and build intelligent robotic systems — from CAD and structural analysis through to ROS2 simulation, perception, and machine learning. My focus is **collaborative robotics, computer vision, and ML for real-world automation**. I'm currently looking for **R&D / research engineer roles in robotics and intelligent systems**.
+I design and build intelligent robotic systems from CAD and structural analysis through to ROS2 simulation, perception, and machine learning. My focus is **collaborative robotics, computer vision, and ML for real-world automation**. I'm currently looking for **R&D / research engineer roles in robotics and intelligent systems**.
 
 🔬 Published researcher (Elsevier journal · IEEE conference · Springer book chapter)
 🎓 M.Sc. dissertation: a rule-based 3-DOF collaborative robot for expiry detection & waste reduction in supermarkets
