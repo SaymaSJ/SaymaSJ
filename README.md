@@ -9,7 +9,6 @@
 
 🔬 Published researcher (Elsevier journal · IEEE conference · Springer book chapter)
 🎓 M.Sc. dissertation: a rule-based 3-DOF collaborative robot for expiry detection & waste reduction in supermarkets
-
 🔭 Currently open to **R&D / research engineer** and **research assistant** roles, and exploring **PhD opportunities** in robotics and intelligent systems.
 📫 Reach me: **saymamte@gmail.com**
 
