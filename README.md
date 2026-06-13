@@ -5,10 +5,9 @@
 **Robotics & Automation Engineer** | M.Sc Mechanical Engineering (UK) | British Council Women in STEM Scholar |
 
 🤖 My focus is **collaborative robotics, computer vision, and machine learning for real-world automation**. I build vision-guided robotic systems with ROS/ROS2, Python, OpenCV and deep learning.
-
-
 🔬 Published researcher (Elsevier journal · IEEE conference · Springer book chapter)
 🎓 M.Sc. dissertation: a rule-based 3-DOF collaborative robot for expiry detection & waste reduction in supermarkets
+
 🔭 Currently open to **R&D / research engineer** and **research assistant** roles, and exploring **PhD opportunities** in robotics and intelligent systems.
 📫 Reach me: **saymamte@gmail.com**
 
