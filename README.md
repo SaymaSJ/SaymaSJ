@@ -25,7 +25,7 @@
 
 **Embedded:** Raspberry Pi · Arduino · ESP · IoT
 
--**Tools:** Linux · Git/GitHub · VS Code · Google Colab
+**Tools:** Linux · Git/GitHub · VS Code · Google Colab
 
 ---
 
