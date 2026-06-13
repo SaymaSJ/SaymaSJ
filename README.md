@@ -2,30 +2,38 @@
 
 > I design and build intelligent robotic systems — from CAD and structural analysis through to ROS2 simulation, perception, and machine learning.
 
-**Robotics & Automation Engineer** | M.Sc. Mechanical Engineering, Anglia Ruskin University (UK) | British Council Scholar for Women in STEM
-
 🤖 My focus is **collaborative robotics, computer vision, and machine learning for real-world automation**. I build vision-guided robotic systems with ROS/ROS2, Python, OpenCV and deep learning, in robotics and AI.
+
+**Robotics & Automation Engineer** | M.Sc Mechanical Engineering (UK) | British Council Women in STEM Scholar | 🔭 Currently open to **R&D / research engineer** and **research assistant** roles, and exploring **PhD opportunities** in robotics and intelligent systems.
 
 🔬 Published researcher (Elsevier journal · IEEE conference · Springer book chapter)
 🎓 M.Sc. dissertation: a rule-based 3-DOF collaborative robot for expiry detection & waste reduction in supermarkets
+📫 Reach me: **saymamte@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
--**Languages:** Python · C · C++ · MATLAB
+**Languages:** Python · C · C++ · MATLAB
 
--**Robotics:** ROS / ROS2 · MoveIt2 · Gazebo · URDF
+**Robotics:** ROS / ROS2 · MoveIt2 · Gazebo · URDF
 
--**ML & Vision:** PyTorch · TensorFlow · OpenCV · scikit-learn
+**ML & Vision:** PyTorch · TensorFlow · OpenCV · scikit-learn
 
--**CAD & Simulation:** Autodesk Inventor · ANSYS
+**CAD & Simulation:** Autodesk Inventor · ANSYS
 
--**Embedded:** Raspberry Pi · Arduino · ESP · IoT
+**Embedded:** Raspberry Pi · Arduino · ESP · IoT
 
 -**Tools:** Linux · Git/GitHub · VS Code · Google Colab
 
 ---
+
+## 🔬 Focus Areas
+
+- **Collaborative robotics** — motion planning & control (ROS/ROS2, MoveIt2, Gazebo)
+- **Computer vision & deep learning** for robotic perception (OpenCV, PyTorch, TensorFlow)
+- **Machine learning** for real-world automation & IoT
+- **Mechanical design & simulation** — CAD and FEM/CFD analysis (Autodesk Inventor, ANSYS)
 
 ### 📌 Featured Projects
 
