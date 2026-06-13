@@ -36,6 +36,8 @@
 - **Machine learning** for real-world automation & IoT
 - **Mechanical design & simulation** — CAD and FEM/CFD analysis (Autodesk Inventor, ANSYS)
 
+  📄 5 peer-reviewed publications in robotics & AI — see my Google Scholar.
+
 ### 📌 Featured Projects
 
 | Project | What it does | Tech |
