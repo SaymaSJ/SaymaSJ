@@ -65,3 +65,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayma16/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=WTPD7AwAAAAJ)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:saymamte@gmail.com)
+[![Youtube](https://img.shields.io/badge/Youtube-EA4335?logo=youtube&logoColor=white)](https://www.youtube.com/@DesignandSimulation)
