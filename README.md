@@ -43,7 +43,7 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| [3-DOF Collaborative Robot](https://github.com/your-username/repo) | Rule-based cobot that detects product expiry to reduce supermarket waste (M.Sc. dissertation) | ROS · Python · OpenCV |
+| [3-DOF Collaborative Robot](https://github.com/SaymaSJ/3-DOF-Cobot--Dissertation) | Rule-based cobot that detects product expiry to reduce supermarket waste (M.Sc. dissertation) | ROS · Python · OpenCV |
 | [Farmbot](https://github.com/SaymaSJ/Farmbot)| IoT-enabled robot for tomato plant disease detection using deep learning | Python · TensorFlow · IoT |
 | [Voice-Controlled Robot](https://github.com/SaymaSJ/Arduino/blob/main/voice_controlled_car.ino) | Arduino line-following robot with a real-time Bluetooth voice command interface | Arduino · C++ |
 | [Gripper Design & Simulation](https://github.com/your-username/repo) | Gripper modelled in Inventor, stress-tested in ANSYS, simulated & controlled in ROS2 | Inventor · ANSYS · ROS2 · Python |
